@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RITESHKUMAR7488
 - 👀 I’m interested in developing
 - 🌱 I’m currently learning ANDROID(KOTLIN)
-- 💞️ I’m looking to collaborate on ...
   linkedin:- RITESH KUMAR 
 
 <!---
